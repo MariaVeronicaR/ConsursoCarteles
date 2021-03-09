@@ -1,0 +1,29 @@
+.preguntas-inicio{
+    padding: 5%;
+    text-align:left;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    font-size: 15px;
+}
+
+.pregunta-inicio{
+    width: 100%;
+    margin-bottom: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+#verificacion{
+    display: none;
+}
+
+.respuesta-inicio{
+    width: 50%;
+    margin: 20px;
+}
+
+.boton{
+    margin-left: 40%;
+}
+

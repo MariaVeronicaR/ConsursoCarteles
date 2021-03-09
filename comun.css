@@ -1,0 +1,16 @@
+#titulo-de-pagina{
+    font-weight: bold;
+    text-transform: capitalize;
+    color: white;
+    background-color: orange !important;
+    justify-content: center;
+    height: 10%;
+}
+
+.navbar-brand, .navbar-header{
+    background: #2f323e !important;
+}
+
+.ti-menu, .ti-close{
+    color: white;
+}
